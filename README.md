@@ -11,3 +11,5 @@ This addon needs pointshop, or you can custom in your own way by edit: lua/dress
 Add playermodels that can be dressed in the folder: lua/dressup/playermodels
 
 Add decorations that can be used in the folder: lua/dressup/decorations
+
+Steam Workshop: [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2905171617).
